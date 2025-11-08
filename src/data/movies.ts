@@ -22,7 +22,7 @@ export const movies: Movie[] = [
     description: "An intense action-packed thriller that will keep you on the edge of your seat. Follow the protagonist as they navigate through a web of danger and conspiracy.",
     price: 50000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-1.jpg",
+    image: "/movie-1.jpg",
     category: "popular",
     showtimes: ["10:00", "13:30", "16:45", "20:00"]
   },
@@ -35,7 +35,7 @@ export const movies: Movie[] = [
     description: "An epic space adventure that explores the depths of the universe. Join the crew as they encounter alien civilizations and face cosmic challenges.",
     price: 55000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-2.jpg",
+    image: "/movie-2.jpg",
     category: "popular",
     showtimes: ["11:00", "14:30", "18:00", "21:15"]
   },
@@ -48,7 +48,7 @@ export const movies: Movie[] = [
     description: "A chilling horror mystery that will haunt your dreams. Uncover the dark secrets that lurk in the shadows of an abandoned mansion.",
     price: 45000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-3.jpg",
+    image: "/movie-3.jpg",
     category: "recommended",
     showtimes: ["12:00", "15:30", "19:00", "22:00"]
   },
@@ -61,7 +61,7 @@ export const movies: Movie[] = [
     description: "A heartwarming love story that transcends time and distance. Experience the emotional journey of two souls destined to be together.",
     price: 48000,
     cinema: "Central Park Cinema",
-    image: "/src/assets/movie-4.jpg",
+    image: "/movie-4.jpg",
     category: "recommended",
     showtimes: ["10:30", "13:45", "17:15", "20:30"]
   },
@@ -74,7 +74,7 @@ export const movies: Movie[] = [
     description: "A magical animated adventure perfect for the whole family. Join beloved characters on an unforgettable journey filled with laughter and wonder.",
     price: 42000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-5.jpg",
+    image: "/movie-5.jpg",
     category: "latest",
     showtimes: ["09:00", "11:30", "14:00", "16:30"]
   },
@@ -87,7 +87,7 @@ export const movies: Movie[] = [
     description: "A gritty crime drama set in the heart of the urban jungle. Follow detectives as they unravel a complex web of corruption and betrayal.",
     price: 50000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-6.jpg",
+    image: "/movie-6.jpg",
     category: "latest",
     showtimes: ["12:30", "15:45", "19:15", "22:30"]
   },
@@ -100,7 +100,7 @@ export const movies: Movie[] = [
     description: "An epic fantasy adventure in a world of magic and dragons. Join heroes on their quest to save the kingdom from an ancient evil.",
     price: 58000,
     cinema: "Central Park Cinema",
-    image: "/src/assets/movie-7.jpg",
+    image: "/movie-7.jpg",
     category: "popular",
     showtimes: ["10:15", "14:00", "18:30", "21:45"]
   },
@@ -113,7 +113,7 @@ export const movies: Movie[] = [
     description: "A hilarious comedy that will have you laughing from start to finish. Join the misadventures of quirky characters in absurd situations.",
     price: 45000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-8.jpg",
+    image: "/movie-8.jpg",
     category: "recommended",
     showtimes: ["11:15", "14:45", "18:15", "21:00"]
   },
@@ -126,7 +126,7 @@ export const movies: Movie[] = [
     description: "A enchanting tale of love and magic in an underwater kingdom. Discover the secrets of the deep and the power of true love.",
     price: 52000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-9.jpg",
+    image: "/movie-9.jpg",
     category: "popular",
     showtimes: ["10:30", "13:45", "17:00", "20:15"]
   },
@@ -139,7 +139,7 @@ export const movies: Movie[] = [
     description: "In a dystopian future, rebels fight against a tyrannical AI regime. Experience high-octane action and mind-bending twists.",
     price: 60000,
     cinema: "Central Park Cinema",
-    image: "/src/assets/movie-10.jpg",
+    image: "/movie-10.jpg",
     category: "latest",
     showtimes: ["12:00", "15:30", "19:00", "22:15"]
   },
@@ -152,7 +152,7 @@ export const movies: Movie[] = [
     description: "A group of friends venture into a cursed forest where ancient spirits awaken. Will they escape the terror that lurks within?",
     price: 47000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-11.jpg",
+    image: "/movie-11.jpg",
     category: "recommended",
     showtimes: ["11:30", "14:00", "17:30", "20:45"]
   },
@@ -165,7 +165,7 @@ export const movies: Movie[] = [
     description: "A lighthearted romantic comedy set during a perfect summer. Follow the blossoming love between two unlikely friends.",
     price: 44000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-12.jpg",
+    image: "/movie-12.jpg",
     category: "popular",
     showtimes: ["09:15", "12:30", "15:45", "19:00"]
   },
@@ -178,7 +178,7 @@ export const movies: Movie[] = [
     description: "Ancient warriors rise to defend their homeland from invading forces. Epic battles and heroic deeds await in this thrilling saga.",
     price: 57000,
     cinema: "Central Park Cinema",
-    image: "/src/assets/movie-13.jpg",
+    image: "/movie-13.jpg",
     category: "latest",
     showtimes: ["10:45", "14:15", "17:45", "21:00"]
   },
@@ -191,7 +191,7 @@ export const movies: Movie[] = [
     description: "A family embarks on a treasure hunt across mysterious islands. Discover hidden secrets and forge unbreakable bonds.",
     price: 43000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-14.jpg",
+    image: "/movie-14.jpg",
     category: "recommended",
     showtimes: ["10:00", "12:45", "15:30", "18:15"]
   },
@@ -204,7 +204,7 @@ export const movies: Movie[] = [
     description: "A detective navigates the dark underbelly of the city in this noir masterpiece. Unravel clues and confront dangerous criminals.",
     price: 49000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-15.jpg",
+    image: "/movie-15.jpg",
     category: "popular",
     showtimes: ["13:00", "16:30", "20:00", "23:15"]
   },
@@ -217,7 +217,7 @@ export const movies: Movie[] = [
     description: "Bold explorers venture into uncharted galaxies, encountering wondrous worlds and formidable challenges.",
     price: 59000,
     cinema: "Central Park Cinema",
-    image: "/src/assets/movie-16.jpg",
+    image: "/movie-16.jpg",
     category: "latest",
     showtimes: ["11:45", "15:15", "18:45", "22:00"]
   },
@@ -230,7 +230,7 @@ export const movies: Movie[] = [
     description: "A poignant drama about love, loss, and redemption. Follow characters as they navigate the complexities of human emotions.",
     price: 51000,
     cinema: "Plaza Cinema XXI",
-    image: "/src/assets/movie-17.jpg",
+    image: "/movie-17.jpg",
     category: "recommended",
     showtimes: ["12:15", "15:30", "18:45", "21:30"]
   },
@@ -243,7 +243,7 @@ export const movies: Movie[] = [
     description: "A non-stop laugh riot featuring hilarious sketches and outrageous situations. Perfect for a fun night out.",
     price: 41000,
     cinema: "Grand Mall Cinema",
-    image: "/src/assets/movie-18.jpg",
+    image: "/movie-18.jpg",
     category: "popular",
     showtimes: ["10:15", "13:00", "16:00", "19:00"]
   }
