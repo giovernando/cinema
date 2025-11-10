@@ -1,4 +1,4 @@
-# Cinema App
+# CineMax App
 
 A modern cinema application built with React, allowing users to browse movies, view details, and manage bookings.
 
